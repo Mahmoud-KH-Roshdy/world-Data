@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "3251",
+      "cityName": "Khan Yunis",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-06-23T00:42:58.700Z",
+      "notes": "",
+      "position": {
+        "lat": 31.341615462896996,
+        "lng": 34.316102579768675
+      }
+    },
+    {
+      "id": "8a70",
+      "cityName": "Al Fayyum",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-06-23T00:43:34.591Z",
+      "notes": "",
+      "position": {
+        "lat": 29.6880527498568,
+        "lng": 31.0148523708811
+      }
+    },
+    {
+      "id": "0fe8",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-06-23T02:11:53.504Z",
+      "notes": "",
+      "position": {
+        "lat": 30.107117887092382,
+        "lng": 31.525883433532865
+      }
+    },
+    {
+      "id": "c2ce",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-06-23T11:23:38.786Z",
+      "notes": "Free palestine",
+      "position": {
+        "lat": 31.501287521196705,
+        "lng": 34.44491556224357
+      }
+    },
+    {
+      "id": "7b7d",
+      "cityName": "Munopedro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-24T00:11:12.760Z",
+      "notes": "",
+      "position": {
+        "lat": 40.88029480552824,
+        "lng": -4.548339843750001
+      }
+    }
+  ]
+}
